@@ -1,8 +1,7 @@
-# leng
+# lengweiping
 
-new leng 333333
-[![NPM version](https://img.shields.io/npm/v/leng.svg?style=flat)](https://npmjs.org/package/leng)
-[![NPM downloads](http://img.shields.io/npm/dm/leng.svg?style=flat)](https://npmjs.org/package/leng)
+[![NPM version](https://img.shields.io/npm/v/lengweiping.svg?style=flat)](https://npmjs.org/package/lengweiping)
+[![NPM downloads](http://img.shields.io/npm/dm/lengweiping.svg?style=flat)](https://npmjs.org/package/lengweiping)
 
 A react library developed with dumi
 
