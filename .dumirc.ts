@@ -5,6 +5,6 @@ export default defineConfig({
   base: '/react-svg-charts/',
   publicPath: '/react-svg-charts/',
   themeConfig: {
-    name: 'leng',
+    name: 'lengweiping',
   },
 });

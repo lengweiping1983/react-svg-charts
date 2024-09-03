@@ -1,6 +1,6 @@
 {
   "name": "lengweiping",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A react library developed with dumi",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,7 +19,22 @@
     "prepublishOnly": "father doctor && npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "authors": [],
+  "keywords": [
+    "charts",
+    "svg",
+    "react",
+    "component",
+    "components",
+    "frontend"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lengweiping1983/react-svg-charts.git"
+  },
+  "homepage": "https://lengweiping1983.github.io/react-svg-charts/",
+  "authors": [
+    "lengweiping1983@163.com"
+  ],
   "license": "MIT",
   "files": [
     "dist"
@@ -73,6 +88,7 @@
     "stylelint": "^14.9.1"
   },
   "dependencies": {
-    "gather": "^0.1.0"
+    "gather": "^0.1.0",
+    "lengweiping": "^0.0.2"
   }
 }
